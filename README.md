@@ -53,4 +53,3 @@ This project we build to learning how to find out the meaning from data
         --topic to-do-list \
         --property "print.key=true"
    ```
-
